@@ -6,11 +6,11 @@ int n;
 
 cout<<"Enter A number=";
 if(n>0)
-  cout<<"Number is positive="<<n;
+  cout<<"Number is positive=";
 else if(n<0)
-  cout<<"Number is Negative="<<n;
+  cout<<"Number is Negative=";
 else
-  cout<<"Number is Zero="<<n;
+  cout<<"Number is Zero=";
 
 return 0;
 
